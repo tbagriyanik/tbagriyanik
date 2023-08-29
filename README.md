@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tbagriyanik
 - 👀 I’m interested in pc programming, web design and game development
-- 🌱 I’m currently learning Adobe After Effects
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me http://yunus.sf.net
 
 <!---
